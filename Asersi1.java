@@ -4,6 +4,8 @@ public class Asersi1{
 		if(x>0){
 			System.out.println("x bilangan positif");
 		}else{
-			assert(x<0):"Ada kesalahan code";
+			assert(x<0):"Afa kesalahan code";
 			System.out.println("x bilangan negatif");
-
+		}
+	}
+}
