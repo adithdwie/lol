@@ -31,3 +31,4 @@ public class Titik {
 			return counterTitik;
 		} 
 }
+public class duh{}
